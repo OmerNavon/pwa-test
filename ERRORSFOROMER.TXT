@@ -1,0 +1,78 @@
+
+node_modules/workbox-core/types.d.ts:14:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+14     event: ExtendableEvent;
+              ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:37:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+37     event: ExtendableEvent;
+              ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:46:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+46     event: ExtendableEvent;
+              ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:89:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+89     event: ExtendableEvent;
+              ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:99:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+99     event: ExtendableEvent;
+              ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:109:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+109     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:119:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+119     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:129:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+129     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:140:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+140     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:149:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+149     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:157:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+157     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:166:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+166     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:174:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+174     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:183:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+183     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+node_modules/workbox-core/types.d.ts:193:12 - error TS2304: Cannot find name 'ExtendableEvent'.
+
+193     event: ExtendableEvent;
+               ~~~~~~~~~~~~~~~
+
+
+Found 15 errors in the same file, starting at: node_modules/workbox-core/types.d.ts:14
